@@ -1,4 +1,4 @@
-## Olá eu sou a Silas Rodrigues e procuro meu primeiro emprego como desenvolvedor Front-End!
+## Olá eu sou Silas Rodrigues e procuro meu primeiro emprego de desenvolvedor Front-End!
 <div align="center">
   <a href="https://github.com/silasrodrig">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silasrodrig&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
