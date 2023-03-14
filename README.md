@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Me chamo Silas Rodrigues e procuro meu primeiro emprego de desenvolvedor Front-End!</h1>
+<h1 align="center">Olá! Me chamo Silas Rodrigues e procuro meu primeiro emprego de Desenvolvedor!</h1>
 
 </br>
 <div align="center">
