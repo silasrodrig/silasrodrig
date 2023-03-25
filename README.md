@@ -33,9 +33,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![C-Sharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET&nbsp;6-05122A?style=flat&logo=.net)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-ASP.Net-05122A?style=flat&logo=asp.net)&nbsp;
@@ -49,6 +46,9 @@
 
   
   <!-- 
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=macOS)&nbsp; 
 ![iOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=iOS)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
